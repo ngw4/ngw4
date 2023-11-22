@@ -3,9 +3,7 @@ i have no clue what to put here.
 
 ## languages
 
-c#,
-javascript,
-luau,
+luau, c# & js.
 
 
 ## links
